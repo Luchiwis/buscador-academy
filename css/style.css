@@ -1,0 +1,20 @@
+.productos{
+    border: 1px solid black;
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.75);
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.producto{
+    margin: 10px;
+    width: 14rem;
+    margin: auto;
+    margin-top: 10px;
+}
+
+/* .producto img{
+    width: 
+} */
